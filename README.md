@@ -27,13 +27,13 @@ Le jeu de données comprend 13 248 observations réparties sur plusieurs variabl
 ## Résultat de prédiction
 
 Pour les conditions suivantes :
-- Température : 28.3 °C
-- Humidité : 55 %
-- Vitesse du vent : 13.3 km/h
-- Consommation Zone 2 : 30 500 KW
-- Consommation Zone 3 : 32 800 KW
+- Température : 26 °C
+- Humidité : 65 %
+- Vitesse du vent : 4.2 km/h
+- Consommation Zone 2 : 18 840 KW
+- Consommation Zone 3 : 25 700 KW
 
-Le modèle prédit une consommation pour la Zone 1 de **42 654 KW**.
+Le modèle prédit une consommation pour la Zone 1 de **29,802.29 KW**.
 
 ## Arborescence du projet
 
