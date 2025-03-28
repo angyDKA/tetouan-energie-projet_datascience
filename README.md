@@ -40,14 +40,14 @@ Le modèle prédit une consommation pour la Zone 1 de **42 654 KW**.
 ```
 .
 ├── data/                    # Jeu de données brut
-├── scripts/                 # Scripts Python pour analyse statistique, PCA, régressions linéaires
+├── scripts/                 # Scripts Python pour analyse descriptive, PCA, régressions linéaires
 ├── notebooks/               # Notebook Jupyter complet
 ├── figures/                 # Graphiques générés
 ├── rapport/                 # Rapport final (PDF)
 ├── requirements.txt         # Librairies nécessaires
 └── README.md
 
-
+```
 ## Technologies utilisées
 
 - Python 3
